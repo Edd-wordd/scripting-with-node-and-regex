@@ -1,1 +1,65 @@
-[{"name":"cc","desc":"Counting cards funnction","inputs":1,"type":"Intermediate","typeNum":200,"isFavorite":false,"order":200},{"name":"profileLookup","desc":"profile lookup","inputs":2,"type":"Intermediate","typeNum":200,"isFavorite":false,"order":201},{"name":"randomRange","desc":"Generate Random Whole Numbers within a Range","inputs":2,"type":"Intermediate","typeNum":200,"isFavorite":false,"order":202},{"name":"removeItemSplice","desc":"Remove Items Using splice()","inputs":2,"type":"Intermediate","typeNum":200,"isFavorite":false,"order":203},{"name":"addItemSplice","desc":"add Items Using splice()","inputs":3,"type":"Intermediate","typeNum":200,"isFavorite":false,"order":204},{"name":"checkForElement","desc":"check for the presence of an element with indexOf()","inputs":1,"type":"Intermediate","typeNum":200,"isFavorite":false,"order":205},{"name":"checkType","desc":"check the type of variable","inputs":1,"type":"Intermediate","typeNum":200,"isFavorite":false,"order":206}]
+[
+   {
+      "name": "cc",
+      "desc": "Counting cards funnction",
+      "inputs": 1,
+      "type": "Intermediate",
+      "typeNum": 200,
+      "isFavorite": false,
+      "order": 200
+   },
+   {
+      "name": "profileLookup",
+      "desc": "profile lookup",
+      "inputs": 2,
+      "type": "Intermediate",
+      "typeNum": 200,
+      "isFavorite": false,
+      "order": 201
+   },
+   {
+      "name": "randomRange",
+      "desc": "Generate Random Whole Numbers within a Range",
+      "inputs": 2,
+      "type": "Intermediate",
+      "typeNum": 200,
+      "isFavorite": false,
+      "order": 202
+   },
+   {
+      "name": "removeItemSplice",
+      "desc": "Remove Items Using splice()",
+      "inputs": 2,
+      "type": "Intermediate",
+      "typeNum": 200,
+      "isFavorite": false,
+      "order": 203
+   },
+   {
+      "name": "addItemSplice",
+      "desc": "add Items Using splice()",
+      "inputs": 3,
+      "type": "Intermediate",
+      "typeNum": 200,
+      "isFavorite": false,
+      "order": 204
+   },
+   {
+      "name": "checkForElement",
+      "desc": "check for the presence of an element with indexOf()",
+      "inputs": 1,
+      "type": "Intermediate",
+      "typeNum": 200,
+      "isFavorite": false,
+      "order": 205
+   },
+   {
+      "name": "checkType",
+      "desc": "check the type of variable",
+      "inputs": 1,
+      "type": "Intermediate",
+      "typeNum": 200,
+      "isFavorite": false,
+      "order": 206
+   }
+]
