@@ -1,11 +1,1 @@
-[
-   {
-      "name": "replaceMe",
-      "desc": "Copy, paste, then remove this column from index.html",
-      "inputs": 2,
-      "type": "Functional",
-      "typeNum": 300,
-      "isFavorite": false,
-      "order": 300
-   }
-]
+[{"name":"sliceMethod","desc":"Return Part of an Array Using the slice Method","inputs":2,"type":"Functional","typeNum":300,"isFavorite":false,"order":300},{"name":"removeWithSliceMethod","desc":"Remove Elements from an Array Using slice Instead of splice","inputs":2,"type":"Functional","typeNum":300,"isFavorite":false,"order":301},{"name":"mend","desc":"Combine Two Arrays Using the concat Method","inputs":2,"type":"Functional","typeNum":300,"isFavorite":false,"order":302},{"name":"concatInsteadOfPush","desc":"Add Elements to the End of an Array Using concat Instead of push","inputs":2,"type":"Functional","typeNum":300,"isFavorite":false,"order":303},{"name":"concatInsteadOfPush","desc":"Add Elements to the End of an Array Using concat Instead of push","inputs":2,"type":"Functional","typeNum":300,"isFavorite":false,"order":304},{"name":"reduceMethod","desc":"Use the reduce Method to Analyze Data","inputs":2,"type":"Functional","typeNum":300,"isFavorite":false,"order":305},{"name":"sorted","desc":"Sort an Array Alphabetically using the sort Method","inputs":1,"type":"Functional","typeNum":300,"isFavorite":false,"order":306},{"name":"splitStr","desc":"Split a String into an Array Using the split Method","inputs":1,"type":"Functional","typeNum":300,"isFavorite":false,"order":307},{"name":"mendArr","desc":"Combine an Array into a String Using the join Method","inputs":1,"type":"Functional","typeNum":300,"isFavorite":false,"order":308},{"name":"urlSlug","desc":"Apply Functional Programming to Convert Strings to URL Slugs","inputs":1,"type":"Functional","typeNum":300,"isFavorite":false,"order":309},{"name":"useEveryMethod","desc":"Use the every Method to Check that Every Element in an Array Meets a Criteria","inputs":1,"type":"Functional","typeNum":300,"isFavorite":false,"order":310},{"name":"useSomeMethod","desc":"Use the some Method to Check that Any Elements in an Array Meet a Criteria","inputs":1,"type":"Functional","typeNum":300,"isFavorite":false,"order":311}]
