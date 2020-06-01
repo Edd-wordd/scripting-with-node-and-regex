@@ -1,17 +1,20 @@
 module.exports = {
    getComponents(file) {
-      return "use the string .match() method and regex to find what you are looking for"
+      return file.match(/^\W{4}\s[start|end]{3,5}\s(column)\s\W{3}$/gim);
    },
    getName(component) {
-      return "use the string .match() method and regex to find what you are looking for"
+      return component.match(/(<b>)(\w+)(<\/b>)/gim);
    },
    getDesc(component) {
-      return "use the string .match() method and regex to find what you are looking for"
+      return component.match(/-\s?\w+?\s\w+?\s\w+(<\/p>$)/gim);
    },
    getInputs(component) {
-      return "use the string .match() method and regex to find what you are looking for"
+      return component.match(/(<input\s)\w+.+>$/gim);
    },
    trim(str) {
-      return "use the string .replace() method and regex to first replace carriage returns and new lines with a space, then replace 2 or more spaces with 1 space, then remove spaces from beginning and end"
+      return str
+         .replace(/(\\r)|(\\n)/g, " ")
+         .replace(/\s{2,}/g, " ")
+         .replace(/^\s|\s$/g, "");
    },
 };
