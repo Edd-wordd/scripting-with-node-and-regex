@@ -9,7 +9,7 @@ module.exports = {
       return component.match(/-\s?\w+?\s\w+?\s\w+(<\/p>$)/gim);
    },
    getInputs(component) {
-      return component.match(/(<input\s)\w+.+>$/gim);
+      return component.match(/(.{1}input\s)(\w+.+>$)/gim);
    },
    trim(str) {
       return str
