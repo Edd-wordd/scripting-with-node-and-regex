@@ -1,1 +1,11 @@
-[{"name":"replaceMe","desc":"Copy, paste, then remove this column from index.html","inputs":2,"type":"Functional","typeNum":300,"isFavorite":false,"order":300}]
+[
+   {
+      "name": "replaceMe",
+      "desc": "Copy, paste, then remove this column from index.html",
+      "inputs": 2,
+      "type": "Functional",
+      "typeNum": 300,
+      "isFavorite": false,
+      "order": 300
+   }
+]
