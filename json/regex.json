@@ -1,1 +1,146 @@
-[{"name":"replaceMe","desc":"Copy, paste, then remove this column from index.html","inputs":2,"type":"regex","typeNum":500,"isFavorite":false,"order":500},{"name":"matchStrings","desc":"Match Literal Strings","inputs":2,"type":"regex","typeNum":500,"isFavorite":false,"order":501},{"name":"multiPoss","desc":"Match Single Character with Multiple Possibilities","inputs":1,"type":"regex","typeNum":500,"isFavorite":false,"order":502},{"name":"notSpecified","desc":"Match Single Characters Not Specified","inputs":1,"type":"regex","typeNum":500,"isFavorite":false,"order":503},{"name":"multipleMatches","desc":"Match Characters that Occur One or More Times","inputs":1,"type":"regex","typeNum":500,"isFavorite":false,"order":504},{"name":"findCriminals","desc":"Find One or More Criminals in a Hunt","inputs":1,"type":"regex","typeNum":500,"isFavorite":false,"order":505},{"name":"matchTheFront","desc":"Match Beginning String Patterns","inputs":1,"type":"regex","typeNum":500,"isFavorite":false,"order":506},{"name":"matchTheEnd","desc":"Match Ending String Patterns","inputs":1,"type":"regex","typeNum":500,"isFavorite":false,"order":507},{"name":"matchEverything","desc":"Match All Letters and Numbers","inputs":1,"type":"regex","typeNum":500,"isFavorite":false,"order":508},{"name":"noLettersOrNums","desc":"Match Everything But Letters and Numbers","inputs":1,"type":"regex","typeNum":500,"isFavorite":false,"order":509},{"name":"matchNums","desc":"Match all Numbers","inputs":1,"type":"regex","typeNum":500,"isFavorite":false,"order":510},{"name":"matchNonNums","desc":"Match all NON-Numbers","inputs":1,"type":"regex","typeNum":500,"isFavorite":false,"order":511},{"name":"matchNonSpace","desc":"Match Non-Whitespace Characters","inputs":1,"type":"regex","typeNum":500,"isFavorite":false,"order":512},{"name":"lookahead","desc":"Positive and Negative Lookahead","inputs":1,"type":"regex","typeNum":500,"isFavorite":false,"order":513},{"name":"captureGroups","desc":"Use Capture Groups to Search and Replace","inputs":1,"type":"regex","typeNum":500,"isFavorite":false,"order":514},{"name":"removeWhiteSpace","desc":"Remove Whitespace from Start and End","inputs":1,"type":"regex","typeNum":500,"isFavorite":false,"order":515}]
+[
+   {
+      "name": "replaceMe",
+      "desc": "Copy, paste, then remove this column from index.html",
+      "inputs": 2,
+      "type": "regex",
+      "typeNum": 500,
+      "isFavorite": false,
+      "order": 500
+   },
+   {
+      "name": "matchStrings",
+      "desc": "Match Literal Strings",
+      "inputs": 2,
+      "type": "regex",
+      "typeNum": 500,
+      "isFavorite": false,
+      "order": 501
+   },
+   {
+      "name": "multiPoss",
+      "desc": "Match Single Character with Multiple Possibilities",
+      "inputs": 1,
+      "type": "regex",
+      "typeNum": 500,
+      "isFavorite": false,
+      "order": 502
+   },
+   {
+      "name": "notSpecified",
+      "desc": "Match Single Characters Not Specified",
+      "inputs": 1,
+      "type": "regex",
+      "typeNum": 500,
+      "isFavorite": false,
+      "order": 503
+   },
+   {
+      "name": "multipleMatches",
+      "desc": "Match Characters that Occur One or More Times",
+      "inputs": 1,
+      "type": "regex",
+      "typeNum": 500,
+      "isFavorite": false,
+      "order": 504
+   },
+   {
+      "name": "findCriminals",
+      "desc": "Find One or More Criminals in a Hunt",
+      "inputs": 1,
+      "type": "regex",
+      "typeNum": 500,
+      "isFavorite": false,
+      "order": 505
+   },
+   {
+      "name": "matchTheFront",
+      "desc": "Match Beginning String Patterns",
+      "inputs": 1,
+      "type": "regex",
+      "typeNum": 500,
+      "isFavorite": false,
+      "order": 506
+   },
+   {
+      "name": "matchTheEnd",
+      "desc": "Match Ending String Patterns",
+      "inputs": 1,
+      "type": "regex",
+      "typeNum": 500,
+      "isFavorite": false,
+      "order": 507
+   },
+   {
+      "name": "matchEverything",
+      "desc": "Match All Letters and Numbers",
+      "inputs": 1,
+      "type": "regex",
+      "typeNum": 500,
+      "isFavorite": false,
+      "order": 508
+   },
+   {
+      "name": "noLettersOrNums",
+      "desc": "Match Everything But Letters and Numbers",
+      "inputs": 1,
+      "type": "regex",
+      "typeNum": 500,
+      "isFavorite": false,
+      "order": 509
+   },
+   {
+      "name": "matchNums",
+      "desc": "Match all Numbers",
+      "inputs": 1,
+      "type": "regex",
+      "typeNum": 500,
+      "isFavorite": false,
+      "order": 510
+   },
+   {
+      "name": "matchNonNums",
+      "desc": "Match all NON-Numbers",
+      "inputs": 1,
+      "type": "regex",
+      "typeNum": 500,
+      "isFavorite": false,
+      "order": 511
+   },
+   {
+      "name": "matchNonSpace",
+      "desc": "Match Non-Whitespace Characters",
+      "inputs": 1,
+      "type": "regex",
+      "typeNum": 500,
+      "isFavorite": false,
+      "order": 512
+   },
+   {
+      "name": "lookahead",
+      "desc": "Positive and Negative Lookahead",
+      "inputs": 1,
+      "type": "regex",
+      "typeNum": 500,
+      "isFavorite": false,
+      "order": 513
+   },
+   {
+      "name": "captureGroups",
+      "desc": "Use Capture Groups to Search and Replace",
+      "inputs": 1,
+      "type": "regex",
+      "typeNum": 500,
+      "isFavorite": false,
+      "order": 514
+   },
+   {
+      "name": "removeWhiteSpace",
+      "desc": "Remove Whitespace from Start and End",
+      "inputs": 1,
+      "type": "regex",
+      "typeNum": 500,
+      "isFavorite": false,
+      "order": 515
+   }
+]
